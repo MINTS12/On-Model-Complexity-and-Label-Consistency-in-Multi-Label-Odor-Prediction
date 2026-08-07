@@ -8,7 +8,7 @@ scale. Covers 138 fine-grained odor labels grouped into 12 broader categories.
 This repo is a work in progress ,  more code going in
 over the next few days.
 
-##Structure
+## Structure
 - `tabular/` – features + Random Forest / HMCN-F models
 - `graph/` – GCN and GATv2 training code
 - `analysis/` – results and per-label consistency analysis
